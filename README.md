@@ -40,7 +40,7 @@ Guillermo Horacio Acosta - Director de Tecnología, Modernización y Desarrollo 
 | 2 | Repetición de presentación. Edición de imagen en estilo Ghibli con ChatGPT. | https://chatgpt.com/ | Tarea: cambiar estilo de imagen (Pixar, Picasso, etc.), crear conversación ingeniosa. |
 | 3 | Exploración de imágenes y prompts en Lexica.art. Creación gráfica para redes. | https://lexica.art/ | Tarea: seguir usando ChatGPT y crear una imagen para redes. |
 | 4 | Crear una imagen publicitaria a partir de un dibujo (boceto). Mejora de prompt. | – | – |
-| 5 | Cancelada por temporal. | – | – |
+| 5 | Que es un LLM. Introduccion a los chatbots. | – | – |
 | 6 | Creación de chatbot turístico para la Municipalidad. | https://chatgpt.com/share/68003ab0-d734-800c-b507-7e63232cbd00 | Detalle de rol e instrucciones en el prompt. |
 | 7 | Revisión de herramientas multimedia. | https://youtu.be/GVT3WUa-48Y<br>https://runwayml.com/<br>https://sora.com/explore | – |
 | 8 | Inicio del trabajo grupal de campaña. | [Consigna](https://docs.google.com/document/d/1RJH6gHOtTAwbeChLMf822tfS8R8FahfOBxNgdhSvBq4/) | – |
