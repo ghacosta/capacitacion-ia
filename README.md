@@ -15,12 +15,20 @@ Guillermo Horacio Acosta - Director de Tecnología, Modernización y Desarrollo 
 - https://elevenlabs.io/ (texto a sonido)
 - https://www.hedra.com/ (animación de imágenes)
 - https://notebooklm.google.com/ (generación de bases de conocimiento)
+- https://zapier.com/ (automatizaciones sencillas)
+- https://n8n.io/ (automatizaciones mas complejas y configurables)
 
 ## Recursos
 
 - https://github.com/neutraltone/awesome-stock-resources (recursos audiovisuales libres)
 - https://lexica.art/ (búsqueda de imágenes creadas con IA y sus prompts)
-- https://youtu.be/GVT3WUa-48Y (video sobre IA)
+- https://youtu.be/GVT3WUa-48Y (video sobre corto animado con IA)
+
+## Modelos
+
+- https://ollama.com/ (para instalar y ejecutar modelos de forma local)
+- https://huggingface.co/ (repositorio de modelos y datasets)
+- https://pinokio.co/ (instalar y ejecutar applicaciones de IA en forma local)
 
 ---
 
@@ -45,3 +53,16 @@ Guillermo Horacio Acosta - Director de Tecnología, Modernización y Desarrollo 
 | 15 | Charla sobre Deepfakes. Texto a voz y animación con IA. | https://elevenlabs.io/<br>https://www.hedra.com/ | Crear guion con ChatGPT. |
 | 16 | Inauguración del espacio CLIC. | – | – |
 | 17 | Repaso Google I/O 2025. Veo 3 y NotebookLM. | https://notebooklm.google.com/ | – |
+| 18 | Instalacion de Modelos locales con Pinokio | https://pinokio.co/ | – |
+| 19 | Instalacion de Modelos locales con Ollama | https://ollama.com/ | – |
+| 20 - 24 | Produccion de imagenes para proyecto IA + Historia | [Carpeta Google Drive](https://drive.google.com/drive/folders/1G1i8Q6JhQusqLSi4Rcu9HSjyu8RqPyXG?usp=sharing) | – |
+| 25 | Introduccion a Automatizaciones | https://zapier.com/ | – |
+| 26 | Automatizaciones con n8n | https://n8n.io/ | – |
+| 27 | Automatizaciones con n8n (continuacion)  | https://n8n.io/ | – |
+| 28 | Clase final y puesta en comun | - | - |
+
+
+## Material para la reflexion
+
+- ¿Cuál es el valor que le asignamos a la verdad cuando no podemos distinguirla? - https://youtu.be/sc6FKyzzakI?si=nSQXzLTUiq9YI1bM&t=1350
+- La deuda cognitiva por el uso de ChatGPT - https://www.youtube.com/watch?v=JMOvzZOA3zI
